@@ -2,7 +2,7 @@
 const config = {
     database: {
         username: 'root',
-        password: '@sexcigareZ2',
+        password: process.env.DB_PASSWORD,
         database: 'fruit-grading',
         host: 'localhost',
         dialect: 'mysql',
