@@ -71,3 +71,11 @@
 {"level":"info","message":"GET /api/chart-data"}
 {"level":"info","message":"GET /api/chart-data"}
 {"level":"info","message":"GET /api/chart-data"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /apple-touch-icon-precomposed.png"}
+{"level":"info","message":"GET /apple-touch-icon.png"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
